@@ -16,6 +16,8 @@ export default function Home() {
     <div>
       <Head>
         <title>Forum Ensao Entreprises || 10 éme édition</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="forum Ensao Entreprises 10 eme edition page d'acceuil"/>
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href={`https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap`} rel="stylesheet" />
